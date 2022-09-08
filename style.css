@@ -1,0 +1,9 @@
+body {
+    background-image: url('img\\istockphoto-1222578586-170667a.jpg');
+    background-repeat: no-repeat;
+    
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    color: aliceblue;
+    font-size: large;
+}
